@@ -4,7 +4,7 @@ A simple React application demonstrating CRUD (Create, Read, Update, Delete) ope
 
 ---
 
-## 🚀 Project Info
+## Project Info
 
 This application provides a basic user management interface where you can:
 
@@ -15,7 +15,7 @@ This application provides a basic user management interface where you can:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * React
 * TypeScript
@@ -24,7 +24,7 @@ This application provides a basic user management interface where you can:
 
 ---
 
-## 📦 Getting Started
+##  Getting Started
 
 Make sure you have **Node.js** and **npm** installed.
 
@@ -61,9 +61,10 @@ The app will start with live reload enabled.
 ```
 src/
  ├── components/
- ├── pages/
+ ├── config/
  ├── hooks/
- ├── services/
+ ├── lib/
+ ├── pages/
  └── App.tsx
 ```
 
